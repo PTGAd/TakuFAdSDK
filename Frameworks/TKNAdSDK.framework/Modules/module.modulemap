@@ -1,0 +1,6 @@
+framework module TKNAdSDK {
+  umbrella header "TKNAdSDK.h"
+  export *
+
+  module * { export * }
+}
